@@ -3,8 +3,9 @@
 This project is written using Processing and the PeasyCam Library.
 
 The program simulates the Lorenz Attractor by using Lorenz's differential equations. 
-The objective of this project is to present of visual representation of two of the Lorenz Equation and the Chao Theory's traits -- 
-sensitivity to initial conditions & strange attractors. The user can also use personalized equations by modifying the constants and time stamps(dt).
+The objective of this project is to present a visual representation of initial condition different equations solutions, 
+as well as two of the Lorenz Equation and the Chao Theory's traits -- 
+sensitivity to initial conditions & strange attractors. The user can also use personalized equations by modifying the constants and timestamps(dt).
 
 #### The Lorenz Equation
 dx/dt = σ * (y - x);  
